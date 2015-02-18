@@ -2,9 +2,13 @@
 
 You'll need to have Node installed to run these tests. Follow the intructions on Nodejs.org to install if you don't already have it installed. 
 
-You will also need Grunt CLI installed too :
+You will also need Grunt CLI installed (globally) too :
 
 	npm install -g grunt-cli
+
+You will then need to intall the dependencies with :
+
+	npm install
 
 Once you're ready to get going you can start the server with :
 
